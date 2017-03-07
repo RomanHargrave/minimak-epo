@@ -1,6 +1,6 @@
 Minimak Esperanto kang. Requires a keyboard with an LSGT key (or change it yourself).
 
-I maintain this configuration specifically for my own setup. For this reason I stripped out the reams of crap found in the default epo config.
+I maintain this configuration specifically for my own setup. This is not based on the epo config that was distributed with my debian.
 Here are details:
 
 * Esperanto diacritics are Level3-shifted on their base counterparts (e.g. s -> ŝ)
