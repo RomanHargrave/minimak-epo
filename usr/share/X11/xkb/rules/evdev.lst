@@ -261,6 +261,7 @@
   mv              Dhivehi
   za              English (South Africa)
   epo             Esperanto
+  mepo            Esperanto (Minimak)
   np              Nepali
   ng              English (Nigeria)
   et              Amharic
@@ -286,9 +287,9 @@
   dvorak-r        us: English (right handed Dvorak)
   dvorak-classic  us: English (classic Dvorak)
   dvp             us: English (programmer Dvorak)
-  minimak-4       us: English (Minimak-4)
-  minimak-8       us: English (Minimak-8)
-  minimak-12      us: English (Minimak-12)    
+  minimak-4       mepo: Esperanto (Minimak-4)
+  minimak-8       mepo: Esperanto (Minimak-8)
+  minimak-12      mepo: Esperanto (Minimak-12)
   rus             us: Russian (US, phonetic)
   mac             us: English (Macintosh)
   altgr-intl      us: English (international AltGr dead keys)
@@ -636,9 +637,6 @@
   mac             gb: English (UK, Macintosh)
   mac_intl        gb: English (UK, Macintosh international)
   colemak         gb: English (UK, Colemak)
-  minimak-4       gb: English (Minimak-4)
-  minimak-8       gb: English (Minimak-8)
-  minimak-12      gb: English (Minimak-12)    
   latin           uz: Uzbek (Latin)
   kr104           kr: Korean (101/104 key compatible)
   CloGaelach      ie: CloGaelach
