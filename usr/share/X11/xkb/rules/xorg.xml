@@ -5628,12 +5628,6 @@
       <variantList>
         <variant>
           <configItem>
-            <name>minimak-4</name>
-            <description>Esperanto (Minimak-4)</description>
-          </configItem>
-        </variant>
-        <variant>
-          <configItem>
             <name>minimak-8</name>
             <description>Esperanto (Minimak-8)</description>
           </configItem>
@@ -5642,6 +5636,12 @@
           <configItem>
             <name>minimak-12</name>
             <description>Esperanto (Minimak-12)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>workman</name>
+            <description>Esperanto (Workman)</description>
           </configItem>
         </variant>
       </variantList>
